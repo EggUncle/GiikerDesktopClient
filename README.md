@@ -1,5 +1,7 @@
 # GiikerDesktopClient
-详细的分析，晚点儿再发，这里简单说一下使用方法
+详细的分析，已经发在安全客上了，感兴趣的朋友可以直接看那边 https://www.anquanke.com/post/id/211979
+
+诶回头github io的blog里头我也同步上吧
 
 ## 使用方式
 替换get_service.py 脚本中这两个字段的为自己的蓝牙魔方即可，我的是i3S，其它的固件不一定是一样的其实。。
